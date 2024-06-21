@@ -1,6 +1,6 @@
 Data Analysis with PowerBI: Visualization Project 1
 
-PowerBI Icon
+
 Overview
 
 This project involves analyzing sales data to answer the following questions:
@@ -12,6 +12,10 @@ This project involves analyzing sales data to answer the following questions:
      What is the change in sales over time for the sales teams, and how does this correlate with marketing spending?
      What sales region had the highest sales during this time period, and how did their ranking change over time?
      What is the performance of different sales regions with their advertising campaigns?
+     
+Data Source:
+
+     Excel (Check the Repository Files)
 
 Report Design
 Key Visualizations
